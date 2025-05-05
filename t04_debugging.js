@@ -8,7 +8,7 @@ var perimeter = 2 * (length + width);
 
 // Display the results
 console.log("The area of a piece of paper with a length of " + length + " and a width of " + width + " is " + area);
-console.log("The same piece of paper has a perimeter of " + perimeter);
+console.log("The same piece of paper has a perimeter of " +perimeter);
 
 // Check if the result is sensible
 if (perimeter > area) {
