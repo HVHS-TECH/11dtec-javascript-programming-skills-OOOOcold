@@ -40,7 +40,7 @@ var Born = 2010;
   var newName;
   alert("Welcome to my program " + username + "!\n Please entire your name");
   newName = prompt("What is your name?");
-  prompt(" Please entire your age ");
+  prompt(" Please enter your age ");
   prompt(" how much pocket money do you have?");
 
   var ageingten = Age + 10;
