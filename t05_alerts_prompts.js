@@ -1,6 +1,6 @@
-var Age= 
-
-
+var Age=15;
+var Year= 2010;
+var PocketMoney= 5;
 
 
 
