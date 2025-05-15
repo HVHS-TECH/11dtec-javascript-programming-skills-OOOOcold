@@ -44,4 +44,4 @@ var Born = 2010;
   pocketMoney = prompt(" how much pocket money do you have?");
 
   var ageingten = Age + 10;
-  alert("Hi " + newName + "\nas of 2/5/2025 you are " + Age + " years old!\nYou were born in " + Born + "\nIn ten years you will be " + ageingten + " years old!");
+  alert("Hi" + newName + "nas of 2/5/2025 you are " + Age + " years old!\nYou were born in " + Born + "\nIn ten years you will be " + ageingten + " years old!");
