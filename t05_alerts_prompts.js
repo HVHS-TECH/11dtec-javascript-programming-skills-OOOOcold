@@ -36,7 +36,7 @@ var Born = 2010;
   answer = pocketMoney/Num2
   console.log("Half of your money is",answer )
 
-  var username =( "Yuvi the loner")
+  var username =( "YN")
   var newName;
   alert("Welcome to my program " + username + "!\n Please entire your name");
   newName = prompt("What is your name?");
