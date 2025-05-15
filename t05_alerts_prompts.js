@@ -1,3 +1,12 @@
+var Age=
+
+
+
+
+
+
+
+
 prompt("Welcome to my program " +userName+ "!\nHow old are you?", 15);
 prompt("Thats great " +userName+ "!\nHow much pocket money do you have?", "5 dollars");
 alert("So if I'm not mistaken")
